@@ -4,7 +4,7 @@ import { DownloadIcon, ExternalLinkIcon } from "@/components/icons";
 const PROOF_POINTS = [
   {
     metric: "~$1M",
-    subtitle: "incremental ARR/year proven by AB tests",
+    subtitle: "incremental ARR each year proven by AB tests",
   },
   {
     metric: "6+ years",
